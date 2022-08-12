@@ -85,7 +85,7 @@ else:
    
 ```
 <img width="295" alt="Screenshot (450)" src="https://user-images.githubusercontent.com/81384066/184438939-c4863c75-9066-48c6-aa44-a0ef4ebfec0a.png">
-<br>
+
 ## [Complete Code Here](https://github.com/thatssweety/Breast-Cancer-Classification-using-ML)
         
              
