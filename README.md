@@ -10,8 +10,11 @@
 2. Pandas
 3. Sklearn
 # Code
+
 ## Import Libraries and sklearn Dataset
+
 ```python
+
 import numpy as np
 import pandas as pd
 import sklearn.datasets
@@ -27,8 +30,11 @@ data_frame.head()
 <img width="1010" alt="Screenshot (446)" src="https://user-images.githubusercontent.com/81384066/184438361-5833df1f-aafc-45af-8966-6d04214e57e2.png">
 
 ## Checking missing values
+
 ```python
+
 data_frame.isnull().sum()
+
 ```
 <img width="421" alt="Screenshot (448)" src="https://user-images.githubusercontent.com/81384066/184438540-97690241-f888-456c-9ea3-15fdae903e36.png">
 
